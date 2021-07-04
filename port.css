@@ -4,7 +4,7 @@ body{
 .orange{
     color: rgb(255, 1, 1);
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
